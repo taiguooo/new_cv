@@ -1,0 +1,170 @@
+body {
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family: 'Lilita One', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    color: #C2B8A3;
+    border-style: dotted none none;
+    width: 10%;
+    height: 0px;
+    border-width: 8px;
+    margin-bottom: 30px;
+}
+
+a {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #A19882;
+}
+
+.top-container {
+    background-color: #FDFAF6;
+    position: relative;
+    padding-top: 100px;
+    height: 800px;
+
+}
+
+.middle-container {
+    padding-top: 100px;
+    padding-bottom: 30px;
+  
+}
+
+.bottom-container {
+    background-color: #FDFAF6;
+    padding-top: 50px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 3rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Nunito', sans-serif;
+}
+.grad {
+    text-decoration: wavy;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+}
+
+.student-img {
+    margin: 50px;
+    margin-left: 100px;
+    left: 0;
+    right: 0;
+}
+
+.profile {
+    width: 75%;
+    margin: auto;
+    line-height: 2;
+}
+
+.AboutMe {
+    margin: 0;
+    width: 1200px;
+}
+
+.profile-pic {
+    float: left;
+    margin-right: 100px;
+}
+
+.AboutMeDesc {
+    text-align: left;
+    width: 1200px;
+}
+
+.skill-row {
+    width: 30%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.languages-img {
+    width: 15%;
+    float: left;
+    margin-right: 60px;
+    margin-top: 15px;
+}
+
+.web-dev-img {
+    width: 15%;
+    float: right;
+    margin-left: 50px;
+}
+
+
+.divider {
+    margin-top: 100px;
+}
+
+.btn {
+    -webkit-border-radius: 44px;
+    -moz-border-radius: 44px;
+    border-radius: 44px;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 1000;
+    padding: 12px;
+    background-color: #E6DDC6;
+    border: solid #FFFFFF 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #A19882;
+    border: solid #FFFFFF 0;
+    -webkit-border-radius: 44px;
+    -moz-border-radius: 44px;
+    border-radius: 44px;
+    text-decoration: none;
+ }
+
+ .foot-link {
+    color: black;
+ }
+
+ .copyright {
+     color: #A19882;
+     font-size: 0.75rem;
+ }
